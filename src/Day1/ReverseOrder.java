@@ -8,7 +8,7 @@ public class ReverseOrder {
         ArrayList<Integer> reversed = new ArrayList<Integer>();
         for (Integer element: list) {
             reversed.add(element);
-
+	
         }
         Collections.reverse(reversed);
         return reversed;
