@@ -13,7 +13,7 @@ public class LeapYearTest {
 		  int year = 2020;
 
 	    //create a variable of boolean type, call it "expectedResult" and assign it with value "true"
-		  boolean expectedResult = true;
+//		  boolean expectedResult = true;
 
 	    //Call the method isLeapYear() and pass "year" as an argument to it,store the result in a variable of boolean type called "actualResult"
 		  boolean actualResult = isLeapYear(year);

@@ -27,7 +27,7 @@ public class PalindromeMain {
 
 	public static void main(String[] args)  {
 
-		isPalindrome(101);
+		System.out.println(isPalindrome(100));
 			
 	}
 
